@@ -1,4 +1,4 @@
-# 云原生数据平台
+# Nextjs and Qiankun 管理平台
 
 ## 启动
 
