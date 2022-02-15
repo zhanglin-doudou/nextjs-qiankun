@@ -1,0 +1,11 @@
+@for $d from 0 to 12 {
+  .fs-#{12 + $d * 2} {
+    font-size: #{12 + $d * 2}px;
+  }
+}
+
+@for $d from 0 to 4 {
+  .fw-#{400 + $d * 100} {
+    font-weight: #{400 + $d * 100};
+  }
+}
